@@ -7,7 +7,7 @@ Bonus was completed but did not count in the score.
 This program is run with parameters which are the numbers in the stock to be sorted 
 example: ./push_swap 2 3 1 4  0 5
 
-Thie program will then display the steps (rotations, swaps, pushes) required to sort the stack
+The program will then display the steps (rotations, swaps, pushes) required to sort the stack
 
 example:
 pb
